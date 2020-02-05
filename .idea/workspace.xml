@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84ebf364-dee4-4093-8305-a414722b6897" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LXFCourse_4">
+      <favorite_root url="file://$PROJECT_DIR$/Async_IO/aiohttp.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/scrapy/http/request/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2575">
+              <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Visualization_data/Bar_exe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/pyecharts/charts/basic_charts/bar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/items.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassStudy/day02/cateye.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/data.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713700">
+              <caret line="28548" column="45" selection-start-line="28548" selection-start-column="45" selection-end-line="28548" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2075">
+              <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3300">
+              <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassStudy/day02/woff_learn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header-ri</find>
+      <find>webdriver</find>
+      <find>96</find>
+      <find>^(.*?):(.*?)$</find>
+      <find>acw_tc</find>
+      <find>options</find>
+      <find>var</find>
+      <find>var contId=&quot;1639869&quot;</find>
+      <find>SEARCH_ID</find>
+      <find>DOWNLOADER_MIDDLEWARES</find>
+      <find>DOWNLOADER</find>
+      <find>pr</find>
+      <find>time</find>
+      <find>小店区</find>
+      <find>project_dir</find>
+      <find>Cary</find>
+      <find>Ca</find>
+      <find>优酷游戏频道 565 网站简介：优酷游戏频道 世界看我玩 - 优酷游戏频道 - 优酷视频 得分:2388</find>
+      <find>(.*?): (.*?)</find>
+      <find>(.*?): (.*?)$</find>
+      <find>171</find>
+      <find>cmmts j-flag</find>
+      <find>img_dir</find>
+      <find>down_dir</find>
+      <find>Chr</find>
+      <find>建设路</find>
+      <find>建设路 北大街</find>
+      <find>275</find>
+      <find>^(.*?): (.*?)$</find>
+      <find>response</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;$1&quot;:$2,</replace>
+      <replace>'$1':$2,</replace>
+      <replace>'$1':'$2'</replace>
+      <replace>&quot;$1&quot;:&quot;$2&quot;,</replace>
+      <replace>'$1':'$2',</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day10/vmgirl_net/vmgirl_net/pipelines.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day11/httpbin_net/httpbin_net/spiders/httpbin.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day11/httpbin_net/httpbin_net/main.py" />
+        <option value="D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/scrapy/templates/project/module/middlewares.py.tmpl" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day11/httpbin_net/httpbin_net/settings.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day11/httpbin_net/httpbin_net/middlewares.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/middlewares.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/main.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/pyppeteer_learning.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/splash_learning.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/toutiao_books.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day04/checkimage.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/words_code.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/calculate_png.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/zhilian/zhilian/middlewares.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/zhilian/zhilian/items.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/zhilian/zhilian/pipelines.py" />
+        <option value="D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/scrapy/templates/project/module/settings.py.tmpl" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/music163_net/music163_net/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/music163_net/music163_net/pipelines.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/music163_net/music163_net/main.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/taobao_net/taobao_net/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/taobao_net/taobao_net/items.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/taobao_net/taobao_net/spiders/taobao.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/bilibili_exe.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/slides.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/images/slides_CH_net.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/zhilian/zhilian/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/zhilian/zhilian/spiders/zhaopin.py" />
+        <option value="$PROJECT_DIR$/Scrapy_splash_exe/music163_net/music163_net/spiders/music163.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/slides_CH_net.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/chaojiying.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/slides2.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/qq.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/jd2.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/jd.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/yanzhengma.py" />
+        <option value="$PROJECT_DIR$/Self_learning/books/yanzhengma2.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/main.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/spiders/anjuke.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/settings.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/replace.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day01/login.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day02/page_login.py" />
+        <option value="$PROJECT_DIR$/ClassStudy/day02/woff_learn.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/settings.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/pipelines.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/spiders/chinaz.py" />
+        <option value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/data.csv" />
+        <option value="$PROJECT_DIR$/Adv_Pro/my.py" />
+        <option value="$PROJECT_DIR$/Visualization_data/Bar_exe.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="730" />
+    <option name="width" value="1200" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1UEWEFi2Qmxt5CApde8juGQ0I8b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myrequest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myrequest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\ClassStudy\day02" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\books\chromedriver_win32" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\books" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\books\images" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Async_IO" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\books" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\books\images" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\qingdengjioayu\day09" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\qingdengjioayu\day08" />
+      <recent name="C:\Users\87057\PycharmProjects\myrequest\Self_learning\qingdengjioayu\day07" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Bar_exe">
+    <configuration name="Bar_exe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myrequest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Visualization_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visualization_data/Bar_exe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chinaz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myrequest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/spiders/chinaz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myrequest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myrequest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv_Pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv_Pro/my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="woff_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myrequest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassStudy/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassStudy/day02/woff_learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Bar_exe" />
+        <item itemvalue="Python.my" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.chinaz" />
+        <item itemvalue="Python.woff_learn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ebf364-dee4-4093-8305-a414722b6897" name="Default Changelist" comment="" />
+      <created>1574922121269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574922121269</updated>
+      <workItem from="1574922122446" duration="134000" />
+      <workItem from="1574922260908" duration="8872000" />
+      <workItem from="1575080995824" duration="137000" />
+      <workItem from="1575261356318" duration="536000" />
+      <workItem from="1575271242335" duration="253000" />
+      <workItem from="1575383660864" duration="2543000" />
+      <workItem from="1575415957168" duration="1277000" />
+      <workItem from="1575417356955" duration="20000" />
+      <workItem from="1575428598735" duration="1556000" />
+      <workItem from="1575445976070" duration="822000" />
+      <workItem from="1575503730212" duration="103000" />
+      <workItem from="1575505539620" duration="2000" />
+      <workItem from="1575506040204" duration="234000" />
+      <workItem from="1575506431423" duration="3903000" />
+      <workItem from="1575510694724" duration="29000" />
+      <workItem from="1577068005835" duration="15104000" />
+      <workItem from="1577101679809" duration="8179000" />
+      <workItem from="1577110529332" duration="48000" />
+      <workItem from="1577110804743" duration="84000" />
+      <workItem from="1577110892114" duration="2180000" />
+      <workItem from="1577150099306" duration="9246000" />
+      <workItem from="1577169063300" duration="17000" />
+      <workItem from="1577171924598" duration="7103000" />
+      <workItem from="1577180449457" duration="4604000" />
+      <workItem from="1577189886565" duration="150000" />
+      <workItem from="1577190176682" duration="4000" />
+      <workItem from="1577192257731" duration="1266000" />
+      <workItem from="1577193956029" duration="648000" />
+      <workItem from="1577228647924" duration="899000" />
+      <workItem from="1577229847466" duration="346000" />
+      <workItem from="1577230957945" duration="4664000" />
+      <workItem from="1577238417701" duration="1964000" />
+      <workItem from="1577241198640" duration="2286000" />
+      <workItem from="1577244127417" duration="2584000" />
+      <workItem from="1577255384870" duration="4536000" />
+      <workItem from="1577264883899" duration="10966000" />
+      <workItem from="1577322669907" duration="3618000" />
+      <workItem from="1577366663158" duration="47000" />
+      <workItem from="1577366894902" duration="1863000" />
+      <workItem from="1577368787108" duration="295000" />
+      <workItem from="1577369102382" duration="287000" />
+      <workItem from="1577369415408" duration="278000" />
+      <workItem from="1577369718983" duration="92000" />
+      <workItem from="1577370038609" duration="776000" />
+      <workItem from="1577404640561" duration="117000" />
+      <workItem from="1577404776048" duration="721000" />
+      <workItem from="1577407098188" duration="1136000" />
+      <workItem from="1577413758897" duration="5266000" />
+      <workItem from="1577430813487" duration="1844000" />
+      <workItem from="1577433662946" duration="6921000" />
+      <workItem from="1577449953003" duration="490000" />
+      <workItem from="1577450473946" duration="6853000" />
+      <workItem from="1577496861627" duration="3696000" />
+      <workItem from="1577501877418" duration="116000" />
+      <workItem from="1577518624834" duration="4226000" />
+      <workItem from="1577523073823" duration="113000" />
+      <workItem from="1577532257020" duration="1504000" />
+      <workItem from="1577534247582" duration="1206000" />
+      <workItem from="1577540532371" duration="1233000" />
+      <workItem from="1577585676916" duration="12403000" />
+      <workItem from="1577617345097" duration="7290000" />
+      <workItem from="1577664291649" duration="3390000" />
+      <workItem from="1577671736717" duration="6531000" />
+      <workItem from="1577684251807" duration="2508000" />
+      <workItem from="1577688537825" duration="1550000" />
+      <workItem from="1577690201586" duration="35000" />
+      <workItem from="1577691348852" duration="11077000" />
+      <workItem from="1577706043453" duration="47000" />
+      <workItem from="1577706303162" duration="412000" />
+      <workItem from="1577706757541" duration="1975000" />
+      <workItem from="1577709333477" duration="1718000" />
+      <workItem from="1577712534711" duration="2896000" />
+      <workItem from="1577756728060" duration="3522000" />
+      <workItem from="1577766718739" duration="1042000" />
+      <workItem from="1577775443185" duration="9160000" />
+      <workItem from="1577792527422" duration="7356000" />
+      <workItem from="1577838976782" duration="13458000" />
+      <workItem from="1577883079965" duration="10045000" />
+      <workItem from="1577932501373" duration="267000" />
+      <workItem from="1577932815848" duration="1187000" />
+      <workItem from="1577936480002" duration="12393000" />
+      <workItem from="1577955125455" duration="156000" />
+      <workItem from="1577955929621" duration="9861000" />
+      <workItem from="1578025528246" duration="1198000" />
+      <workItem from="1578030625424" duration="7448000" />
+      <workItem from="1578129236467" duration="656000" />
+      <workItem from="1578130418074" duration="720000" />
+      <workItem from="1578181316093" duration="3562000" />
+      <workItem from="1578205268523" duration="136000" />
+      <workItem from="1578207926659" duration="8250000" />
+      <workItem from="1578272010525" duration="3743000" />
+      <workItem from="1578277840183" duration="157000" />
+      <workItem from="1578291070106" duration="45000" />
+      <workItem from="1578353735798" duration="16251000" />
+      <workItem from="1578376284884" duration="80000" />
+      <workItem from="1578376520905" duration="655000" />
+      <workItem from="1578377314060" duration="5184000" />
+      <workItem from="1578439243821" duration="4121000" />
+      <workItem from="1578448883905" duration="3276000" />
+      <workItem from="1578464894019" duration="23000" />
+      <workItem from="1578524089728" duration="10018000" />
+      <workItem from="1578539719240" duration="851000" />
+      <workItem from="1578551682570" duration="6389000" />
+      <workItem from="1578567910365" duration="529000" />
+      <workItem from="1578568720000" duration="2260000" />
+      <workItem from="1578575151926" duration="1393000" />
+      <workItem from="1578613053269" duration="9473000" />
+      <workItem from="1578623639324" duration="2279000" />
+      <workItem from="1578632232320" duration="115000" />
+      <workItem from="1578632563789" duration="140000" />
+      <workItem from="1578633308386" duration="210000" />
+      <workItem from="1578644498968" duration="3582000" />
+      <workItem from="1578665292214" duration="617000" />
+      <workItem from="1578701608140" duration="4477000" />
+      <workItem from="1578721125808" duration="9976000" />
+      <workItem from="1578789187176" duration="3226000" />
+      <workItem from="1578794101693" duration="16477000" />
+      <workItem from="1578826895972" duration="7120000" />
+      <workItem from="1578880438374" duration="3828000" />
+      <workItem from="1578914754968" duration="5398000" />
+      <workItem from="1578962992278" duration="14613000" />
+      <workItem from="1579167123783" duration="1008000" />
+      <workItem from="1579169468918" duration="3259000" />
+      <workItem from="1579173206803" duration="667000" />
+      <workItem from="1579174981580" duration="1476000" />
+      <workItem from="1579176686249" duration="758000" />
+      <workItem from="1579177694802" duration="717000" />
+      <workItem from="1579183790577" duration="21000" />
+      <workItem from="1579224579880" duration="12319000" />
+      <workItem from="1579253343302" duration="537000" />
+      <workItem from="1579254283702" duration="4447000" />
+      <workItem from="1579270008825" duration="2402000" />
+      <workItem from="1579319123186" duration="2868000" />
+      <workItem from="1579649400397" duration="2724000" />
+      <workItem from="1579670719512" duration="21449000" />
+      <workItem from="1579734983398" duration="7225000" />
+      <workItem from="1579782631599" duration="1869000" />
+      <workItem from="1579825153118" duration="9293000" />
+      <workItem from="1579869723236" duration="4687000" />
+      <workItem from="1579911802408" duration="8934000" />
+      <workItem from="1579999439315" duration="26614000" />
+      <workItem from="1580210128006" duration="9020000" />
+      <workItem from="1580514647459" duration="4181000" />
+      <workItem from="1580525415923" duration="10961000" />
+      <workItem from="1580612162858" duration="5011000" />
+      <workItem from="1580652750992" duration="350000" />
+      <workItem from="1580737103550" duration="615000" />
+      <workItem from="1580798006145" duration="601000" />
+      <workItem from="1580861691989" duration="698000" />
+      <workItem from="1580908271308" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="443206000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7634146" visible="true" weight="0.25737265" />
+      <window_info id="Structure" order="1" sideWeight="0.23658536" side_tool="true" visible="true" weight="0.25737265" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.60714287" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.30615166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3951498" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.2234795" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3281471" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.41926345" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.33097595" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32952926" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Self_learning/CSS_selector/css_1.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myrequest$taobao.coverage" NAME="taobao Coverage Results" MODIFIED="1578821798609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$XieCheng.coverage" NAME="XieCheng Coverage Results" MODIFIED="1577757219600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$selenium_exe__1_.coverage" NAME="selenium_exe (1) Coverage Results" MODIFIED="1579225061076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day07" />
+    <SUITE FILE_PATH="coverage/myrequest$xianyu_data.coverage" NAME="xianyu_data Coverage Results" MODIFIED="1578217298582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/XianYu" />
+    <SUITE FILE_PATH="coverage/myrequest$pyppeteer_learning.coverage" NAME="pyppeteer_learning Coverage Results" MODIFIED="1579872005249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$02_096__01_.coverage" NAME="02-096-段伟-01-拉钩 Coverage Results" MODIFIED="1578814916603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$selenium_exe.coverage" NAME="selenium_exe Coverage Results" MODIFIED="1579183799284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day06" />
+    <SUITE FILE_PATH="coverage/myrequest$jianlai.coverage" NAME="jianlai Coverage Results" MODIFIED="1579270889046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day09/jianlai_net/jianlai_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$jinritoutiao2.coverage" NAME="jinritoutiao2 Coverage Results" MODIFIED="1574926339413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001/网易新闻抓取" />
+    <SUITE FILE_PATH="coverage/myrequest$slides.coverage" NAME="slides Coverage Results" MODIFIED="1580037183415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$Mongo_Supple.coverage" NAME="Mongo_Supple Coverage Results" MODIFIED="1578034086574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day07" />
+    <SUITE FILE_PATH="coverage/myrequest$mysqltest.coverage" NAME="mysqltest Coverage Results" MODIFIED="1577244241102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLConnect" />
+    <SUITE FILE_PATH="coverage/myrequest$Biquge.coverage" NAME="Biquge Coverage Results" MODIFIED="1577167648599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01" />
+    <SUITE FILE_PATH="coverage/myrequest$zhilian2.coverage" NAME="zhilian2 Coverage Results" MODIFIED="1577588583438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day03_1" />
+    <SUITE FILE_PATH="coverage/myrequest$splash_learning.coverage" NAME="splash_learning Coverage Results" MODIFIED="1579873281271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$exe_1.coverage" NAME="exe_1 Coverage Results" MODIFIED="1578795298594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$08_00_01.coverage" NAME="08-00-01 Coverage Results" MODIFIED="1579236637920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day08" />
+    <SUITE FILE_PATH="coverage/myrequest$With_Usage.coverage" NAME="With_Usage Coverage Results" MODIFIED="1577974142900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv_Pro" />
+    <SUITE FILE_PATH="coverage/myrequest$.coverage" NAME="格式化数据 Coverage Results" MODIFIED="1578440941904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$myasyncio.coverage" NAME="myasyncio Coverage Results" MODIFIED="1577069289757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$MongoDB_exercise.coverage" NAME="MongoDB_exercise Coverage Results" MODIFIED="1578205301579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$learning1.coverage" NAME="learning1 Coverage Results" MODIFIED="1577167186488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$Faithless2.coverage" NAME="Faithless2 Coverage Results" MODIFIED="1577231582813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$IP_Proxy.coverage" NAME="IP_Proxy Coverage Results" MODIFIED="1577174074450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1577255440510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day03" />
+    <SUITE FILE_PATH="coverage/myrequest$Job_info.coverage" NAME="Job_info Coverage Results" MODIFIED="1577867321258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day06" />
+    <SUITE FILE_PATH="coverage/myrequest$aiohttp_text__1_.coverage" NAME="aiohttp_text (1) Coverage Results" MODIFIED="1578984311215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day13" />
+    <SUITE FILE_PATH="coverage/myrequest$bilibili_exe.coverage" NAME="bilibili_exe Coverage Results" MODIFIED="1580036217651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$spider003_wangyimusic.coverage" NAME="spider003_wangyimusic Coverage Results" MODIFIED="1575508668058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$headersfile.coverage" NAME="headersfile Coverage Results" MODIFIED="1577446500795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$settings.coverage" NAME="settings Coverage Results" MODIFIED="1580517785803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net" />
+    <SUITE FILE_PATH="coverage/myrequest$02_00_02_css.coverage" NAME="02-00-02-css Coverage Results" MODIFIED="1578665886716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day03" />
+    <SUITE FILE_PATH="coverage/myrequest$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1575503769476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$qq.coverage" NAME="qq Coverage Results" MODIFIED="1580213287635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$Baihe.coverage" NAME="Baihe Coverage Results" MODIFIED="1577596634794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$boss_net.coverage" NAME="boss_net Coverage Results" MODIFIED="1578817984264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$trr.coverage" NAME="trr Coverage Results" MODIFIED="1577451969910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day03_1" />
+    <SUITE FILE_PATH="coverage/myrequest$mytask.coverage" NAME="mytask Coverage Results" MODIFIED="1577689636340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$Supply.coverage" NAME="Supply Coverage Results" MODIFIED="1577068930502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$vmgirl.coverage" NAME="vmgirl Coverage Results" MODIFIED="1579699573442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day10/vmgirl_net/vmgirl_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$Pipeline.coverage" NAME="Pipeline Coverage Results" MODIFIED="1577068747479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$Faithless.coverage" NAME="Faithless Coverage Results" MODIFIED="1577242494867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$chrome_driver.coverage" NAME="chrome_driver Coverage Results" MODIFIED="1578274686644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$CatEye.coverage" NAME="CatEye Coverage Results" MODIFIED="1577099206378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01" />
+    <SUITE FILE_PATH="coverage/myrequest$YouDaoTranslate.coverage" NAME="YouDaoTranslate Coverage Results" MODIFIED="1577667515540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$01_00_01_.coverage" NAME="01-00-01-正心作业 Coverage Results" MODIFIED="1578354114497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu" />
+    <SUITE FILE_PATH="coverage/myrequest$main.coverage" NAME="main Coverage Results" MODIFIED="1580517790295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net" />
+    <SUITE FILE_PATH="coverage/myrequest$myfile.coverage" NAME="myfile Coverage Results" MODIFIED="1575417131951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$spider004_YaoZhiwang.coverage" NAME="spider004_YaoZhiwang Coverage Results" MODIFIED="1579913606422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1579688188396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day10/ly_net/ly_net" />
+    <SUITE FILE_PATH="coverage/myrequest$spider003_meizitu.coverage" NAME="spider003_meizitu Coverage Results" MODIFIED="1575416435056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001/网易新闻抓取" />
+    <SUITE FILE_PATH="coverage/myrequest$words_code.coverage" NAME="words_code Coverage Results" MODIFIED="1579917620067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$LXFCourse_3.coverage" NAME="LXFCourse_3 Coverage Results" MODIFIED="1577942140563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$renren_try_again.coverage" NAME="renren_try_again Coverage Results" MODIFIED="1577677052444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$zhaopin.coverage" NAME="zhaopin Coverage Results" MODIFIED="1580044842344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_splash_exe/zhilian/zhilian/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$wjx_selenium.coverage" NAME="wjx_selenium Coverage Results" MODIFIED="1579232055347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day07" />
+    <SUITE FILE_PATH="coverage/myrequest$login.coverage" NAME="login Coverage Results" MODIFIED="1580526074583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01" />
+    <SUITE FILE_PATH="coverage/myrequest$doutu.coverage" NAME="doutu Coverage Results" MODIFIED="1577176978001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$checkimage.coverage" NAME="checkimage Coverage Results" MODIFIED="1577677005621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$Bar_exe.coverage" NAME="Bar_exe Coverage Results" MODIFIED="1580737665388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_data" />
+    <SUITE FILE_PATH="coverage/myrequest$woff_learn.coverage" NAME="woff_learn Coverage Results" MODIFIED="1580614727656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$css_1.coverage" NAME="css_1 Coverage Results" MODIFIED="1578616113799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/CSS_selector" />
+    <SUITE FILE_PATH="coverage/myrequest$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1579684593741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day10/ly_net/ly_net" />
+    <SUITE FILE_PATH="coverage/myrequest$Cookies_js.coverage" NAME="Cookies_js Coverage Results" MODIFIED="1577713546647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$pic.coverage" NAME="pic Coverage Results" MODIFIED="1578529669788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day08/baidutupian/baidutupian/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$zhaopin2.coverage" NAME="zhaopin2 Coverage Results" MODIFIED="1577588373115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day03_1" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_2.coverage" NAME="Async_IO_2 Coverage Results" MODIFIED="1579259612406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$mytime.coverage" NAME="mytime Coverage Results" MODIFIED="1575383953268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001/网易新闻抓取" />
+    <SUITE FILE_PATH="coverage/myrequest$Bea_exe_4.coverage" NAME="Bea_exe_4 Coverage Results" MODIFIED="1578381559467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/Beautiful_exe" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO.coverage" NAME="Async_IO Coverage Results" MODIFIED="1579259160246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$taobao__1_.coverage" NAME="taobao (1) Coverage Results" MODIFIED="1577533120661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$extractdata__1_.coverage" NAME="extractdata (1) Coverage Results" MODIFIED="1577408147335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day03_1" />
+    <SUITE FILE_PATH="coverage/myrequest$my.coverage" NAME="my Coverage Results" MODIFIED="1580652905709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv_Pro" />
+    <SUITE FILE_PATH="coverage/myrequest$aiohttp.coverage" NAME="aiohttp Coverage Results" MODIFIED="1577941277358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$myaiohttp.coverage" NAME="myaiohttp Coverage Results" MODIFIED="1578973632721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$YiPinWeiKe_Login.coverage" NAME="YiPinWeiKe_Login Coverage Results" MODIFIED="1578130533932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/YiPinWeiKe" />
+    <SUITE FILE_PATH="coverage/myrequest$zuoye.coverage" NAME="zuoye Coverage Results" MODIFIED="1579176865555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day09" />
+    <SUITE FILE_PATH="coverage/myrequest$spider003_meizitu__1_.coverage" NAME="spider003_meizitu (1) Coverage Results" MODIFIED="1575417210049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$Redis_exercise.coverage" NAME="Redis_exercise Coverage Results" MODIFIED="1578272416751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_5.coverage" NAME="Async_IO_5 Coverage Results" MODIFIED="1579260773163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$spider005_KuWoMusic.coverage" NAME="spider005_KuWoMusic Coverage Results" MODIFIED="1578026049435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$WangyiMusic.coverage" NAME="WangyiMusic Coverage Results" MODIFIED="1577623409361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1579783838703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day11/httpbin_net/httpbin_net" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_Base_3.coverage" NAME="Async_IO_Base_3 Coverage Results" MODIFIED="1577956960256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$spider004_monidenglu.coverage" NAME="spider004_monidenglu Coverage Results" MODIFIED="1577521024794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$anjuke.coverage" NAME="anjuke Coverage Results" MODIFIED="1580517662266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$jd2.coverage" NAME="jd2 Coverage Results" MODIFIED="1580213896689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$Bea_exe_2.coverage" NAME="Bea_exe_2 Coverage Results" MODIFIED="1578380836169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/Beautiful_exe" />
+    <SUITE FILE_PATH="coverage/myrequest$Request_html_exercise.coverage" NAME="Request_html_exercise Coverage Results" MODIFIED="1577534714892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$toutiao.coverage" NAME="toutiao Coverage Results" MODIFIED="1574924038867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$Adv_Fea.coverage" NAME="Adv_Fea Coverage Results" MODIFIED="1577973547166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv_Pro" />
+    <SUITE FILE_PATH="coverage/myrequest$LXF.coverage" NAME="LXF课程 Coverage Results" MODIFIED="1577939930785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$ly.coverage" NAME="ly Coverage Results" MODIFIED="1579679305643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day10/ly_net/ly_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$slides_CH_net.coverage" NAME="slides_CH_net Coverage Results" MODIFIED="1580090327373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$04_096__xpath.coverage" NAME="04-096-段伟-xpath Coverage Results" MODIFIED="1578800034789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$httpbin.coverage" NAME="httpbin Coverage Results" MODIFIED="1579776096555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day11/httpbin_net/httpbin_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$yanzhengma.coverage" NAME="yanzhengma Coverage Results" MODIFIED="1580220017055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$myproxy.coverage" NAME="myproxy Coverage Results" MODIFIED="1577258832973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$04_096__.coverage" NAME="04-096-段伟-千千音乐 Coverage Results" MODIFIED="1578812254330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$a.coverage" NAME="a Coverage Results" MODIFIED="1578795793840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$08_00_02.coverage" NAME="08-00-02 Coverage Results" MODIFIED="1579238187917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day08" />
+    <SUITE FILE_PATH="coverage/myrequest$renren.coverage" NAME="renren Coverage Results" MODIFIED="1577692796543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$Huakuaiyanzhengma.coverage" NAME="Huakuaiyanzhengma Coverage Results" MODIFIED="1578569933090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$biquge3.coverage" NAME="biquge3 Coverage Results" MODIFIED="1577112727413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01" />
+    <SUITE FILE_PATH="coverage/myrequest$Shangbiaowang.coverage" NAME="Shangbiaowang Coverage Results" MODIFIED="1577801114917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day06" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_4.coverage" NAME="Async_IO_4 Coverage Results" MODIFIED="1579260689937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1579835365765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net" />
+    <SUITE FILE_PATH="coverage/myrequest$MeiPai.coverage" NAME="MeiPai Coverage Results" MODIFIED="1577622661884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$zhilian.coverage" NAME="zhilian Coverage Results" MODIFIED="1577848391184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/Aiohttp_exercise" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_Base.coverage" NAME="Async_IO_Base Coverage Results" MODIFIED="1577948386352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$extractdata.coverage" NAME="extractdata Coverage Results" MODIFIED="1577323905048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day03" />
+    <SUITE FILE_PATH="coverage/myrequest$xianyu.coverage" NAME="xianyu Coverage Results" MODIFIED="1578216995277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/XianYu" />
+    <SUITE FILE_PATH="coverage/myrequest$music163.coverage" NAME="music163 Coverage Results" MODIFIED="1580046654043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_splash_exe/music163_net/music163_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$page_login.coverage" NAME="page_login Coverage Results" MODIFIED="1580529776377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$Biquge1.coverage" NAME="Biquge1 Coverage Results" MODIFIED="1577107692161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01" />
+    <SUITE FILE_PATH="coverage/myrequest$Bossemp.coverage" NAME="Bossemp Coverage Results" MODIFIED="1577924844357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$toutiao_books.coverage" NAME="toutiao_books Coverage Results" MODIFIED="1579912735666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$spider002__1_.coverage" NAME="spider002 (1) Coverage Results" MODIFIED="1575413608891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_Base_5.coverage" NAME="Async_IO_Base_5 Coverage Results" MODIFIED="1577964062041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$Bea_exe_3.coverage" NAME="Bea_exe_3 Coverage Results" MODIFIED="1578381286412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/Beautiful_exe" />
+    <SUITE FILE_PATH="coverage/myrequest$listhandle.coverage" NAME="listhandle Coverage Results" MODIFIED="1577168259782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day01" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_1.coverage" NAME="Async_IO_1 Coverage Results" MODIFIED="1579259290398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$ZhiLian.coverage" NAME="ZhiLian Coverage Results" MODIFIED="1577591880198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$tt.coverage" NAME="tt Coverage Results" MODIFIED="1575261419909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$taobao2.coverage" NAME="taobao2 Coverage Results" MODIFIED="1577533114624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$new.coverage" NAME="new Coverage Results" MODIFIED="1577591914704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$WinXin.coverage" NAME="WinXin Coverage Results" MODIFIED="1578184031252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/WeiXinPlat" />
+    <SUITE FILE_PATH="coverage/myrequest$ChinaShangbiaonet.coverage" NAME="ChinaShangbiaonet Coverage Results" MODIFIED="1577954574760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day07" />
+    <SUITE FILE_PATH="coverage/myrequest$aiohttp_text.coverage" NAME="aiohttp_text Coverage Results" MODIFIED="1578976409544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/aiohttp" />
+    <SUITE FILE_PATH="coverage/myrequest$douban.coverage" NAME="douban Coverage Results" MODIFIED="1577231950336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$spider002_toutiao.coverage" NAME="spider002_toutiao Coverage Results" MODIFIED="1575445982520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001" />
+    <SUITE FILE_PATH="coverage/myrequest$WY.coverage" NAME="WY音乐 Coverage Results" MODIFIED="1579234689923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day07" />
+    <SUITE FILE_PATH="coverage/myrequest$slides2.coverage" NAME="slides2 Coverage Results" MODIFIED="1580097665842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$unpack_in_fun.coverage" NAME="unpack_in_fun Coverage Results" MODIFIED="1577966551743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv_Pro" />
+    <SUITE FILE_PATH="coverage/myrequest$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1577840535263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/BaiDutranslate" />
+    <SUITE FILE_PATH="coverage/myrequest$calculate_png.coverage" NAME="calculate_png Coverage Results" MODIFIED="1579919338046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$asyncio.coverage" NAME="asyncio的核心概念与基本架构 Coverage Results" MODIFIED="1577961574659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$Async_IO_3.coverage" NAME="Async_IO_3 Coverage Results" MODIFIED="1579259842270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$jd.coverage" NAME="jd Coverage Results" MODIFIED="1580216021322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$a51job.coverage" NAME="a51job Coverage Results" MODIFIED="1578920032069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day12/wuyou/wuyou/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$myjson.coverage" NAME="myjson Coverage Results" MODIFIED="1578354784546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$jiayuan.coverage" NAME="jiayuan Coverage Results" MODIFIED="1577457282923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy/day04" />
+    <SUITE FILE_PATH="coverage/myrequest$yanzhengma2.coverage" NAME="yanzhengma2 Coverage Results" MODIFIED="1580221413262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/books" />
+    <SUITE FILE_PATH="coverage/myrequest$youdao.coverage" NAME="youdao Coverage Results" MODIFIED="1577665205121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1580621718505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net" />
+    <SUITE FILE_PATH="coverage/myrequest$beautifulSoupExercise.coverage" NAME="beautifulSoupExercise Coverage Results" MODIFIED="1578380204927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/Beautiful_exe" />
+    <SUITE FILE_PATH="coverage/myrequest$chinaz.coverage" NAME="chinaz Coverage Results" MODIFIED="1580621279591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/spiders" />
+    <SUITE FILE_PATH="coverage/myrequest$checkproxy.coverage" NAME="checkproxy Coverage Results" MODIFIED="1577591845508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassStudy" />
+    <SUITE FILE_PATH="coverage/myrequest$exercise_1.coverage" NAME="exercise_1 Coverage Results" MODIFIED="1577794124573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/Aiohttp_exercise" />
+    <SUITE FILE_PATH="coverage/myrequest$02_00_01_.coverage" NAME="02-00-01-正则 Coverage Results" MODIFIED="1578625820197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day03" />
+    <SUITE FILE_PATH="coverage/myrequest$spider002.coverage" NAME="spider002 Coverage Results" MODIFIED="1575384641004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider001/网易新闻抓取" />
+    <SUITE FILE_PATH="coverage/myrequest$LXFCourse_2.coverage" NAME="LXFCourse_2 Coverage Results" MODIFIED="1577940386346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Async_IO" />
+    <SUITE FILE_PATH="coverage/myrequest$write_file.coverage" NAME="write_file Coverage Results" MODIFIED="1578373599421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning" />
+    <SUITE FILE_PATH="coverage/myrequest$02_00__01_.coverage" NAME="02-00-正心-01-拉钩 Coverage Results" MODIFIED="1578440119838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day02" />
+    <SUITE FILE_PATH="coverage/myrequest$05_00_01_.coverage" NAME="05-00-01-税务局 Coverage Results" MODIFIED="1578833139731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day05" />
+    <SUITE FILE_PATH="coverage/myrequest$my_test.coverage" NAME="my_test Coverage Results" MODIFIED="1578621123878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Self_learning/qingdengjioayu/day03" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/jd2.py" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/code.jpg" />
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/jd.py" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/captcha.png" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/image1.png" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/image2.png" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/img_bg.png" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/img_slider.png" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/slides2.py" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/slides.py" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/yanzhengma.py" />
+    <entry file="file://$PROJECT_DIR$/Self_learning/books/yanzhengma2.py" />
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day09/zuoye.py" />
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day12/wuyou/wuyou/settings.py" />
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day04/jiaoyou.json" />
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day04/checkimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day04/my.js" />
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day04/RandCode.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day04/taobao.py" />
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day05/renren.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2653" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day09/anjuke_net/anjuke_net/spiders/anjuke.py" />
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/spiders/anjuke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="87" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/login.py" />
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/selenium/webdriver/remote/switch_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day09/jianlai_net/jianlai_net/spiders/jianlai.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day09/net_test/net_test/spiders/httpbin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day01/anjuke_net/anjuke_net/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/fontTools/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/fontTools/ttLib/ttFont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14500">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/spiders/chinaz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adv_Pro/my.py" />
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding>
+            <element signature="e#84#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/VirEnv/WebEnv1/scrapy_env/Lib/site-packages/pyecharts/charts/basic_charts/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day02/cateye.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713700">
+          <caret line="28548" column="45" selection-start-line="28548" selection-start-column="45" selection-end-line="28548" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_learning/qingdengjioayu/day12/chinaz_net/chinaz_net/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassStudy/day02/woff_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_data/Bar_exe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
